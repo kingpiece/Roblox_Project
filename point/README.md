@@ -8,11 +8,11 @@
 
 # 구현 방식
 
-local function onPlayerJoin(player): 점수 담는 공간을 만드는 함수
+**local function onPlayerJoin(player)**: 점수 담는 공간을 만드는 함수
 
-local function givePoints(player): 점수를 획득하는 givepoints 함수
+**local function givePoints(player)**: 점수를 획득하는 givepoints 함수
 
-local function partTouched(otherPart): 버섯버섯과 플레이어의 Touch Event 함수
+**local function partTouched(otherPart)**: 버섯버섯과 플레이어의 Touch Event 함수
 
 --- 
 

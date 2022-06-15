@@ -14,7 +14,7 @@ local function givePoints(player): 점수를 획득하는 givepoints 함수
 
 local function partTouched(otherPart): 버섯버섯과 플레이어의 Touch Event 함수
 
---
+--- 
 
 **점수 획득 전**
 ![image](https://user-images.githubusercontent.com/107115658/173830183-7a7f566a-0ebe-4289-8736-eacc469da3ca.png)
